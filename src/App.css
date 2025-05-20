@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.he {
+    height: 68%;
+}
+
+.bg {
+    background: #ffefe0;
+}
+
+.col {
+    color: #9b6d13;
+}
